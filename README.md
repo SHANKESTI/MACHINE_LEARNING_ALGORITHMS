@@ -5,28 +5,6 @@ Each algorithm is organized in a separate folder and trained/tested on appropria
 
 ---
 
-## 📂 Project Structure
-MACHINE_LEARNING_ALGORITHMS/
-│
-├── ADABOOST/
-├── BAGGING_ENSEMBLE/
-├── CLUSTERING/
-├── DECISION_TREE/
-├── GRADIENTBOOSTING/
-├── KNN/
-├── LINEAR_REGRESSION/
-├── LOGISTIC_REGRESSION/
-├── NAIVEBAYES/
-├── RANDOM_FOREST/
-├── STACKING/
-├── SUPPORTVECTORMACHINE/
-├── VOTING_ENSEMBLE/
-├── XGBOOST/
-└── README.md
-
-
----
-
 ## 🧠 Algorithms Implemented
 
 ### 🔹 Regression Algorithms
